@@ -1,0 +1,16 @@
+= TGE: a programming language
+
+[verse]
+----
+Listen to the color of your dreams...
+Or play the game existence to the end
+Of the beginning. —John Lennon
+----
+
+This is to be a variant of classical FORTH{empty}footnote:[There will
+be no effort to comply with ‘standard Forth’, which we would rather
+pretend does not exist.] demonstrating the world’s first
+implementation of _continuation threading_.
+
+It is hoped TGE (The Game Existence) will be useful as a target
+language for higher-level compilers.
