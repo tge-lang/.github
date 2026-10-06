@@ -11,8 +11,9 @@ effort to comply with ‘standard Forth’, which we would rather pretend
 does not exist.] demonstrating the world’s first implementation of
 _continuation threading_. We keep being told that continuation
 threading is “trampolines,” but we know nothing of trampolines. What
-we do know is we have dreamed up a way to do proper tail calls in
-separately compiled C, without stack switches or Cheney on the MTA.
+we do know is we believe we have dreamed up a way to do proper tail
+calls in separately compiled C, without stack switches or Cheney on
+the MTA.
 
 It is hoped TGE (The Game Existence) will be useful as a target
 language for higher-level compilers.
