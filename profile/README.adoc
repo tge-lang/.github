@@ -10,11 +10,12 @@ This is to be a variant of classical FORTH,footnote:[There will be no
 effort to comply with ‘standard Forth’, which we would rather pretend
 does not exist.] demonstrating the world’s first implementation of
 _continuation threading_. We keep being told that continuation
-threading is “trampolines,” but we know nothing of trampolines. What
-we do know is we believe we have dreamed up a way to do proper tail
-calls in separately compiled C, without stack switches or Cheney on
-the MTA. The technique also should work in Ada, Fortran, and other
-languages.
+threading is “trampolines,” but we know nothing of trampolines, other
+than that some others use things by that name on executable stacks. We
+are not using executable stacks. What we _do know_ is we believe we
+have dreamed up a way to do proper tail calls in separately compiled
+C, without stack switches or Cheney on the MTA. The technique also
+should work in Ada, Fortran, and other languages.
 
 It is hoped TGE (The Game Existence) will be useful as a target
 language for higher-level compilers.
