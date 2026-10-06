@@ -1,9 +1,9 @@
 = TGE: a programming language
 
-[verse]
+[verse,John Lennon]
 ____
 Or play the game existence to the end
-Of the beginning. —John Lennon
+Of the beginning.
 ____
 
 This is to be a variant of classical FORTH,footnote:[There will be no
