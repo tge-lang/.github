@@ -1,11 +1,12 @@
 = TGE: a programming language
 
-[verse]
-----
-Listen to the color of your dreams...
+
+____
+Listen to the color of your dreams.
+It is not living.
 Or play the game existence to the end
 Of the beginning. —John Lennon
-----
+____
 
 This is to be a variant of classical FORTH{empty}footnote:[There will
 be no effort to comply with ‘standard Forth’, which we would rather
