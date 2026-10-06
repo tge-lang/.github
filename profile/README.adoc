@@ -6,6 +6,8 @@ Or play the game existence to the end
 Of the beginning.
 ____
 
+***
+
 This is to be a variant of classical FORTH,footnote:[There will be no
 effort to comply with ‘standard Forth’, which we would rather pretend
 does not exist.] demonstrating the world’s first implementation of
