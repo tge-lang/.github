@@ -1,6 +1,6 @@
 = TGE: a programming language
 
-
+[verse]
 ____
 Listen to the color of your dreams.
 It is not living.
